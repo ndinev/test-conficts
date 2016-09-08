@@ -1,0 +1,45 @@
+{
+  "ProjectName": "hyb0908",
+  "ProjectGuid": "bba0369d-3c03-486b-af9a-cc8b16afd2e5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.hyb0908",
+  "DisplayName": "hyb0908",
+  "Author": "",
+  "Description": "hyb0908",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{ddf7a9a5-f5b7-4dbb-abf9-977d7deca89e}",
+  "WP8ProductID": "{8fda0807-f8d7-4358-8e3f-0e2998548411}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.hyb0908",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
